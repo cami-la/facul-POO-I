@@ -1,4 +1,4 @@
-package br.com.unifacvest.POOI;
+package br.com.unifacvest.POOI.aula1;
 
 public class Aula1 {
 
