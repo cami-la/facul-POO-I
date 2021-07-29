@@ -5,6 +5,4 @@ public class Aula2 {
         Naipes naipe = Naipes.OUROS;
         System.out.println(naipe);
     }
-
-
 }
